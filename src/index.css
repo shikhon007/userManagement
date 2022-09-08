@@ -1,0 +1,75 @@
+.login-form {
+    width: 600px;
+    box-shadow: 0 0 30px brown;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 5rem;
+    padding: 4rem;
+    height: auto;
+}
+
+.login-title {
+
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.login-btn {
+    width: 30rem;
+    border-radius: 10px;
+    /* margin-left: 3rem; */
+}
+
+.underline {
+    border: 1px solid wheat;
+}
+
+.header {
+    background: darkseagreen;
+}
+.nav {
+    display: flex;
+    padding: 20px;
+}
+
+
+.logout {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    margin-left: auto;
+}
+
+.sideber {
+    background: darkcyan;
+    height: 100vh;
+}
+
+.sideber button {
+    width: 11rem;
+}
+
+.alluser {
+    display: flex;
+    gap: 20px;
+    margin-top: 2rem;
+    margin-left: 4rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.userImage {
+    width: 284px;
+    height: 160px;
+    object-fit: cover;
+}
+
+.error {
+    font-size: 13px;
+    margin-left: 1rem;
+    padding: 5px;
+}
+
+
+
